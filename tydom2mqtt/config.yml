@@ -2,17 +2,17 @@
 
 ########## GENERAL SETTINGS ######################################################################################################
 name: tydom2mqtt
-image: koleos6/tydom2mqtt
+image: AlBla84140/tydom2mqtt
 version: 3.4.8
 slug: tydom2mqtt
-description: Deltadore Tydom to MQTT Bridge. Fork from fmartinou/tydom2mqtt.
+description: Deltadore Tydom to MQTT Bridge. Fork from koleos6/tydom2mqtt.
 arch:
   - armhf
   - armv7
   - aarch64
   - amd64
   - i386
-url: https://github.com/koleos6/tydom2mqtt/tree/master
+url: https://github.com/AlBla84140/tydom2mqtt/tree/master
 services:
   - mqtt:need
 
