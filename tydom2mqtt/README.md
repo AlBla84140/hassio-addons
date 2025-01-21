@@ -1,8 +1,8 @@
 # tydom2mqtt add-on
 
-![](https://github.com/koleos6/tydom2mqtt/raw/master/docs/tydom2mqtt_logo_250.png)
+![](https://github.com/AlBla84140/tydom2mqtt/raw/master/docs/tydom2mqtt_logo_250.png)
 
-This add-on allows you to easily deploy and integrate [tydom2mqtt](https://koleos6.github.io/tydom2mqtt/) to [Home-Assistant](https://www.home-assistant.io/).
+This add-on allows you to easily deploy and integrate [tydom2mqtt](https://AlBla84140.github.io/tydom2mqtt/) to [Home-Assistant](https://www.home-assistant.io/).
 
 ## How to install the add-on?
 
